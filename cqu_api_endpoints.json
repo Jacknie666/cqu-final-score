@@ -1,0 +1,110 @@
+[
+  {
+    "id": 63,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/authserver/simple-user",
+    "description": "User simple info"
+  },
+  {
+    "id": 64,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/resourceapi/session/info-detail",
+    "description": "Session info detail"
+  },
+  {
+    "id": 65,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/shunt/student/management/enrollment-confirm",
+    "description": "Enrollment confirmation"
+  },
+  {
+    "id": 72,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/gr/stud/self-check/credit/self-check-info",
+    "description": "Credit self-check info"
+  },
+  {
+    "id": 89,
+    "method": "POST",
+    "url": "https://my.cqu.edu.cn/api/uni-log/log/user-use-log/saveUserUseLog",
+    "description": "User use log"
+  },
+  {
+    "id": 90,
+    "method": "POST",
+    "url": "https://my.cqu.edu.cn/api/uni-message/station-letter/station-letter-unread-num",
+    "description": "Unread message count"
+  },
+  {
+    "id": 91,
+    "method": "POST",
+    "url": "https://my.cqu.edu.cn/api/uni-message/station-letter/station-letter-list",
+    "description": "Station letter list"
+  },
+  {
+    "id": 92,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/workspace/student/score/gpa",
+    "description": "GPA and score summary"
+  },
+  {
+    "id": 93,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/sam/score/student/score",
+    "description": "Student score details"
+  },
+  {
+    "id": 94,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/workspace/user-star-tab/list-star-tab",
+    "description": "User star tab list"
+  },
+  {
+    "id": 96,
+    "method": "POST",
+    "url": "https://my.cqu.edu.cn/api/workspace/admin/todo/all-apply-count",
+    "description": "Todo/Apply count"
+  },
+  {
+    "id": 97,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/workspace/time-pattern/session-time-pattern",
+    "description": "Session time pattern"
+  },
+  {
+    "id": 98,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/sam/resit-register/fill-base-info",
+    "description": "Resit registration base info"
+  },
+  {
+    "id": 99,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/workspace/student-enrollment/get-stu-status",
+    "description": "Student status"
+  },
+  {
+    "id": 100,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/timetable/time/cur-week",
+    "description": "Current week info"
+  },
+  {
+    "id": 101,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/timetable/course/maxWeek/1060",
+    "description": "Max week for course"
+  },
+  {
+    "id": 102,
+    "method": "POST",
+    "url": "https://my.cqu.edu.cn/api/timetable/class/timetable/stu/schedule-detail",
+    "description": "Student schedule details"
+  },
+  {
+    "id": 103,
+    "method": "GET",
+    "url": "https://my.cqu.edu.cn/api/resourceapi/session/detail/1060",
+    "description": "Session detail"
+  }
+]
